@@ -1,4 +1,4 @@
-MONGO_DB_URL="mongobd://localhost:27017/"
-MONGO_DB_NAME="chat_app"
+MONGO_DB_URL="mongodb://localhost:27017/"
+MONGO_DB_NAME="Moha_GPT"
 OLLAMA_URL="http://localhost:8000/"
 OLLAMA_MODELS="gemma2:2b,llama3:latest,mistral:7b"
